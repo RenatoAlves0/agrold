@@ -1,0 +1,62 @@
+{
+  "entity": {
+    "id": "",
+    "sensors": [{ "id": "", "data": [] }],
+    "actuators": [{ "id": "", "actions": [] }],
+    "cpu": {
+      "model": "",
+      "cores": "",
+      "lithography": { "value": "", "unity": "" },
+      "clock": { "value": "", "unity": "" },
+      "temperature": { "min": "", "max": "", "unity": "" }
+    },
+    "memory": [
+      {
+        "id": "",
+        "model": "",
+        "type": "",
+        "capacity": { "value": "", "unity": "" },
+        "speed": { "value": "", "unity": "" }
+      }
+    ],
+    "battery": {
+      "model": "",
+      "type": "",
+      "capacity": { "value": "", "unity": "" },
+      "temperature": { "min": "", "max": "", "unity": "" }
+    },
+    "communication": [
+      {
+        "id": "",
+        "protocol": "",
+        "range": { "value": "", "unity": "" },
+        "speed": { "value": "", "unity": "" }
+      }
+    ],
+    "functions": [
+      {
+        "id": "",
+        "alias": "",
+        "description": "",
+        "parameters": [
+          {
+            "id": "",
+            "type": "",
+            "description": "",
+            "enum": [],
+            "aliasEnum": [],
+            "required": ""
+          }
+        ],
+        "response": [
+          {
+            "id": "",
+            "alias": "",
+            "type": "",
+            "unity": ""
+          }
+        ]
+      }
+    ]
+  }
+}

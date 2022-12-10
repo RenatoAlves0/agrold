@@ -1,0 +1,12 @@
+{
+  "entity": {
+    "id": "",
+    "sensors": [],
+    "actuators": [],
+    "cpu": {},
+    "memory": [],
+    "battery": {},
+    "communication": [],
+    "functions": []
+  }
+}
