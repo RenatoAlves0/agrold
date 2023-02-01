@@ -1,0 +1,21 @@
+{
+  "name": "agrold",
+  "version": "1.0.0",
+  "description": "A AgroLD é uma uma linguagem de design de Digital Twin, construída com enfoque na área agrícola a partir do Estudo de Caso do Plante Box (descrito no Trabalho de Conclusão de Curso disponível em http://biblioteca.ifce.edu.br/index.asp?codigo_sophia=98979).",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-specifier-resolution=node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenatoAlves0/agrold.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenatoAlves0/agrold/issues"
+  },
+  "homepage": "https://github.com/RenatoAlves0/agrold#readme"
+}
